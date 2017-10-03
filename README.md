@@ -1,6 +1,6 @@
-# News Reporting Tool
+# News Site Reporting Tool
 
-A reporting tool for a news site.
+A reporting tool for a news site that processes the data on the site's database and outputs consolidated reports as plain text.
 
 ## Getting Started
 
